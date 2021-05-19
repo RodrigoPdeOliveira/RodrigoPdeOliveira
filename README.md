@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DygoBrks
-- 👀 I’m interested in ...
+- 👀 I’m interested in all languages and tecnologies
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rodrikpoliveira@gmail.com

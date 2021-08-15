@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DygoBrks
+- 👋 Hi, I’m @HredricBrks
 - 👀 I’m interested in all languages and tecnologies
 - 🌱 I’m currently learning Python
 - 📫 How to reach me rodrikpoliveira@gmail.com

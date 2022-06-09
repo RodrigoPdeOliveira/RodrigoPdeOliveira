@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheHredric
+- 👋 Hi, I’m @RodrigoPdeOliveira
 - 👀 I’m interested in all languages and tecnologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me rodrikpoliveira@gmail.com
 
 <!---

@@ -58,3 +58,5 @@
       <img alt="Git" src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?message=Visual Studio Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge">
     </p>
+  
+  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
